@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Backend Engineer",
+    "company": "TechCorp",
+    "description": "Design and implement scalable backend systems using Python and cloud services. Experience with PostgreSQL required."
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning Engineer",
+    "company": "MLWorks",
+    "description": "Build and deploy ML models for text understanding and recommendation systems. Familiarity with transformers and model serving."
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "company": "Insights LLC",
+    "description": "Apply NLP techniques to extract signal from resumes and job descriptions. Knowledge of embeddings and evaluation methods."
+  },
+  {
+    "id": 4,
+    "title": "Full Stack Developer",
+    "company": "WebDev Inc",
+    "description": "Build responsive web applications using FastAPI and React. Strong Python and JavaScript skills required."
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "CloudOps",
+    "description": "Manage containerized infrastructure using Docker and Kubernetes. PostgreSQL and Linux system administration experience."
+  }
+]
